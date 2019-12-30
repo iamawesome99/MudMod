@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mudmod",
+  "name": "Mud Mod",
+  "description": "Adds Mud.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["iamawesomeuknow99"],
+  "credits": "The Forge and FML guys, for making Forge. And me, i guess",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
