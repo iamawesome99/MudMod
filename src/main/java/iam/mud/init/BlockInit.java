@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class BlockInit {
-    public static List<Block> BLOCKS = new ArrayList<Block>();
+    public static List<Block> BLOCKS = new ArrayList<>();
 
     public static final Block MUD = new Mud("mud", Material.GROUND);
 }

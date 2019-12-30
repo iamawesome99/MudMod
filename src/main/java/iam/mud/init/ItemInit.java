@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ItemInit {
-    public static List<Item> ITEMS = new ArrayList<Item>();
+    public static List<Item> ITEMS = new ArrayList<>();
 
     public static final Item.ToolMaterial TOOL_MUD = EnumHelper.addToolMaterial("tool_mud", 0, 16, 0.4f, 2, 10);
 
